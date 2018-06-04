@@ -17,6 +17,6 @@
     "tests"
   ],
   "dependencies": {
-    "d3": "3.x"
+    "d3": "4.x"
   }
 }
