@@ -1,6 +1,6 @@
 {
   "name": "d3-liquid-fill-gauge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/ugomeda/d3-liquid-fill-gauge",
   "authors": [
     "Curtis Bratton",
@@ -17,6 +17,6 @@
     "tests"
   ],
   "dependencies": {
-    "d3": "4.x"
+    "d3": "4.11.0"
   }
 }
